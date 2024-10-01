@@ -1,4 +1,11 @@
-## Hi there 👋
+## 🐈‍⬛ Hi, I'm Natália 🦤
+### Let's get to know each other!
+* 🐍 I'm currently a **Python software developer**
+* 📊 Engaged in **data science** and **machine learning engineering**
+* 💥 **Bachelor of Science in physics**, interested in **R&D**
+* 🖍️ Enthusiast of **education** and **arts**
+
+#### Feel free to contact me: [LinkedIn](https://www.linkedin.com/in/shida-natalia/) || [Email](shida.natalia@gmail.com) 
 
 <!--
 **natalia-lina/natalia-lina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
