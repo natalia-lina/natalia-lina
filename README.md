@@ -1,4 +1,4 @@
-## 🐈‍⬛ Hi, I'm Natália 🦤
+## 🐈‍⬛ Hi, I'm Nat🦤
 ### Let's get to know each other!
 * 🐍 I'm currently a **Python software developer**
 * 📊 Engaged in **data science** and **machine learning engineering**
